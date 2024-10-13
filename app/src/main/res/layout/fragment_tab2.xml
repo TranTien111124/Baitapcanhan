@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".fragment_info.Fragment_tab1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+
+
+            android:text="Tỉnh Quảng Trị"
+            android:textStyle="bold"
+
+
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Quảng Trị là một tỉnh nằm ở miền Trung Việt Nam, giáp với tỉnh Thừa Thiên Huế ở phía nam và tỉnh Quảng Bình ở phía bắc. Tỉnh này có vị trí địa lý quan trọng khi nằm trên hành lang kinh tế Đông – Tây, nối Lào và Thái Lan qua cửa khẩu quốc tế Lao Bảo. Quảng Trị còn có bờ biển dài, có các bãi biển quan trọng và các bãi biển đẹp như Cửa Tùng, Cửa Việt."
+
+            android:layout_gravity="center"
+            android:textSize="27sp" />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>
